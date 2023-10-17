@@ -1,3 +1,3 @@
 # OpenCV
 
-Guide for image processing
+Guides and examples for image processing
